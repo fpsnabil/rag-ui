@@ -1,7 +1,7 @@
 streamlit==1.31.1
 openai==1.14.3
 httpx<0.28
-faiss-cpu
+faiss-cpu>=1.12.0
 pypdf==4.2.0
 tiktoken==0.6.0
 numpy
